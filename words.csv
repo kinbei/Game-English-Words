@@ -1,10 +1,253 @@
-信息,Info
-爵位,Peerage
-召唤,Summon
-强化,Enchant
-碎片,Shards
-使用,Use
-出售,Sell
-合成,Synthesize
-整理,Sort
-道具,Item
+VIP超值抢购,vip purchase 
+败方,loser 
+帮助,help
+宝藏,treasure
+宝石,gem
+宝箱奖励,chests
+保存,save 
+保护时间,protection time 
+报名时间,registration 
+本场赛事,this battle
+本月福利恶魔,devils of the month
+冰系,ice
+补签,retrieve
+"捕灵,捕捉",capture
+"布阵,阵容",formation 
+参加,join 
+查看,view
+称号,title
+成功率,success rate
+成就,goal 
+成员,members 
+橙色,orange
+充值,recharge
+出售,sell
+初级建设,basic construction 
+大厅,hall 
+待激活,activatable
+当前等级,current level
+当前经验,current exp 
+当前累计有效时长,accumulative effective time 
+倒计时,countdown 
+道具,item
+登陆,login 
+等级,level
+等级特权,privilege 
+低,low
+点击换服,tap to switch server
+点击屏幕继续,tap to continue
+定位,role
+队伍信息,team info
+对战时间,duration 
+兑换,exchange 
+额外奖励,extra rewards
+恶魔,devil
+恶魔重生,devil regen
+发送,send 
+法攻,mage
+返回,return
+分解,dismantle 
+风系,wind
+服务器,server
+服务器列表,sever list
+符文,rune
+辅助,support
+复仇,revenge 
+复活,revive 
+副本次数,challenge attempts 
+覆盖,cover
+高级建设,advanced construction
+高级物资,advanced resources
+更换,change 
+公会,guild 
+公会建筑,constructions
+公会列表,list of guilds
+公会宣言,declaration
+贡献,contribution
+购买,buy 
+雇佣,hire 
+关卡,checkpoint
+还原,restore 
+行动值,action point
+好友,friends 
+号召,get 
+合成,synthesize
+后排,back row
+护送,escort 
+回放,replay
+回赠,send back 
+会长,leader
+活动称号,event title
+火系,fire
+击杀/被击杀,kills / deaths 
+基础奖励,basic rewards 
+基础属性,basic stats
+激活,activate 
+羁绊,bond
+记录,record 
+技能,skill
+技能石,skill stone 
+继续挖宝,keep digging 
+加成,bonus
+加入队伍,join
+奖励,reward
+截止,deadline 
+戒指,ring
+今日可接任务数,challenges available today 
+金币,gold 
+进阶/升星,evolve 
+材料,materials 
+进驻,station 
+经验,exp 
+竞技场,arena
+距离战斗开始,battle begins in
+决斗可以解锁更多信息,challenge it to view more info. 
+爵位,peerage
+可获得,outcome
+可进驻人数,capacity 
+孔,slot
+快速登陆,quick access 
+来自,from 
+蓝色,blue 
+累计,accumulative
+冷却时间,cdtime
+礼包,pack
+礼包兑换,pack exchange
+立即购买,buy now
+立即重置,restnow
+聊天,chat 
+领取,claim
+掠夺,loot 
+掠夺次数,loot times 
+绿色,green
+帽子,hat
+每日,daily
+密码,password 
+描述,description 
+墨菲斯托,mephisto
+排行榜,rankings
+排名,ranking 
+派遣,dispatch 
+派遣恶魔,choose a devil
+培养,train
+品阶,quality
+平均资源点,average resource point
+屏蔽,block 
+普通物资,normal resources
+七日大奖,7-day rewards
+签到,check-in 
+前排,front row 
+强化,enchant
+强化大师,enchant master
+抢夺,steal
+抢夺碎片,steal shards
+切换,switch
+清空列表,clear all
+取消,cancel 
+全部,all
+全部拒绝,decline all
+全部删除,delete all 
+全属性提高,all stats boost 
+确认,confirm
+群发邮件,mail all
+人数,population
+任务奖励,quest rewards
+荣耀,honor
+肉盾,tank
+入会条件,filter
+赛季,seasonal
+扫荡,blitz 
+删除好友,delete 
+商店,shop
+上衣,top
+上阵,in formation
+申请,apply 
+升级/培养,upgrade 
+升级所需经验,exp needed 
+圣物,hollything
+胜方,winner 
+胜利/失败,victory/defeat
+剩余次数,chancesleft
+剩余免战时间,protection time left 
+剩余时间,time left 
+剩余双倍时间,effective time left 
+时间,time 
+时装,fashion
+使用,use
+世界,world 
+收到,received
+属性,stats
+刷新,refresh
+碎片,shards
+提取,collect
+体力,stamina
+添加,add
+添加好友,add to friends
+挑战,challenge 
+条件,requirement
+跳过,skip
+图鉴,handbook
+推荐,recommended 
+退出,quit 
+挖宝,dig
+未开启,locked 
+纹章,crest
+我的爵位,peerage 
+武器,weapon
+物攻,fighter
+洗炼/精炼,refine
+系别,type
+系统设置,settings
+下衣,bottom
+现价,current price
+限购,purchase limits 
+镶嵌,socket 
+消耗,costs
+效果,effects
+卸下/调离,remove 
+信息,info
+续费,renew 
+血脉,bloodline
+邀请,invitations
+邀请列表,invitation list
+一键,one-tap
+一键刷新消耗,one-tap refresh costs
+已报名公会,participants 
+已激活,activated
+已捐赠,donated 
+已领取,claimed
+已满级,max level reached
+已收集,collected 
+已装备,equipped
+拥有,own         
+游戏公告,notice
+有效时间,effective time 
+语音,voice
+预计活动结束可获得,estimated rewards 
+原价,original
+增益buff,buff
+占领buff,occupation buff 
+占领度,occupation percentage
+占领加成,occupation bonus 
+战斗力,br
+账号,account 
+召唤,summon
+整理,sort
+职位,position 
+中,medium
+中级建设,intermediate construction 
+重生,regen
+重新发送,resend
+重置,reset
+主城,abyss 
+注册,register 
+专属技能,exclusive skills
+装备,equip 
+准备,prepare 
+准备时间,preparation 
+资源点,resource point
+紫色,purple 
+总贡献,total contribution
+钻石鼓舞,with balens
+最受欢迎,most popular
+尊享/专属,exclusive
