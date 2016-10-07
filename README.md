@@ -9,6 +9,6 @@
 3. 如何使用 `Game-English-Words` ?
   * `Game-English-Words` 并非圣经，它只能作为参考；不同游戏中的事物要根据场景使用合适的英语单词；
 
-4. 为什么使用 `CSV` 格式
+4. 为什么使用 `CSV` 格式 ?
   * `CSV` 可以使用 `Excel` 打开，方便编辑维护
   * `CSV` 在 github 上有很好的支持(github提供对 `CSV` 摸糊查找功能)
