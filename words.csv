@@ -1,229 +1,232 @@
-ï»¿æ•´ç†,sort
-
-é‡‘å¸,gold
-ç­‰çº§,level
-ç§°å·,title
-ç»éªŒ,exp
-è´¦å·,account
-å¢ç›Šbuff,buff
-å¸ä¸‹/è°ƒç¦»,remove
-
-å…¬ä¼š,guild
-å…¬ä¼šå®£è¨€,declaration
-ä¼šé•¿,leader
-è´¡çŒ®,contribution
-åŠ å…¥,join
-èŒä½,position
-é˜Ÿä¼,team
-
-è´­ä¹°/æŠ¢è´­,purchase
-è´­ä¹°,buy
-
-å­”,slot
-é•¶åµŒ,socket
-æ¶ˆè€—,costs
-ç»­è´¹,renew
-å·²æ”¶é›†,collected
-å·²è£…å¤‡,equipped
-æ´—ç‚¼/ç²¾ç‚¼,refine
-ææ–™,materials
-å‡çº§/åŸ¹å…»,upgrade
-åŸ¹å…»,train
-åˆ†è§£,dismantle
-è¿›é˜¶/å‡æ˜Ÿ,evolve
-å¼ºåŒ–,enchant
-å¼ºåŒ–å¤§å¸ˆ,enchant master
-è¡€è„‰,bloodline
-
-ä¸­,medium
-ä½,low
-åŸºç¡€/åˆçº§,basic
-ä¸­çº§,intermediate
-é«˜çº§,advanced
-
-å®çŸ³,gem
-åœ£ç‰©,hollything
-çˆµä½,peerage
-ç¬¦æ–‡,rune
-ä¸Šè¡£,top
-å¸½å­,hat
-æˆ’æŒ‡,ring
-æ—¶è£…,fashion
-çº¹ç« ,crest
-æ­¦å™¨,weapon
-ä¸‹è¡£,bottom
-
-é£ç³»,wind
-ç«ç³»,fire
-å†°ç³»,ice
-ç³»åˆ«,type
-è¾…åŠ©,support
-ç»¿è‰²,green
-è“è‰²,blue
-æ©™è‰²,orange
-ç´«è‰²,purple
-å®šä½,role
-ç‰©æ”»,fighter
-æ³•æ”»,mage
-ç¾ç»Š,bond
-
-è´¥æ–¹,loser
-èƒœæ–¹,winner
-èƒœåˆ©/å¤±è´¥,victory/defeat
-
-å¸®åŠ©,help
-å®è—,treasure
-å®ç®±,chests
-ä¿å­˜,save
-ä¿æŠ¤æ—¶é—´,protection time
-æŠ¥åæ—¶é—´,registration
-è¡¥ç­¾,retrieve
-æ•çµ/æ•æ‰,capture
-å¸ƒé˜µ/é˜µå®¹,formation
-å‚åŠ ,join
-æŸ¥çœ‹,view
-æˆåŠŸç‡,success rate
-æˆå°±,goal
-æˆå‘˜,members
-å……å€¼,recharge
-å‡ºå”®,sell
-å¤§å…,hall
-å¾…æ¿€æ´»,activatable
-å€’è®¡æ—¶,countdown
-é“å…·,item
-ç™»é™†,login
-ç­‰çº§ç‰¹æƒ,privilege
-å¯¹æˆ˜æ—¶é—´,duration
-å…‘æ¢,exchange
-é¢å¤–,extra
-æ¶é­”,devil
-å‘é€,send
-è¿”å›,return
-æœåŠ¡å™¨,server
-å¤ä»‡,revenge
-å¤æ´»,revive
-è¦†ç›–,cover
-æ›´æ¢,change
-é›‡ä½£,hire
-å…³å¡,checkpoint
-è¿˜åŸ,restore
-è¡ŒåŠ¨å€¼,action point
-å¥½å‹,friends
-å·å¬,get
-åˆæˆ,synthesize
-åæ’,back row
-æŠ¤é€,escort
-å›æ”¾,replay
-å›èµ ,send back
-æ´»åŠ¨,event
-å‡»æ€/è¢«å‡»æ€,kills/deaths
-æ¿€æ´»,activate
-è®°å½•,record
-æŠ€èƒ½,skill
-åŠ æˆ,bonus
-å»ºè®¾,construction
-å»ºç­‘,constructions
-å¥–åŠ±,reward
-æˆªæ­¢,deadline
-è¿›é©»,station
-ç«æŠ€åœº,arena
-æ‹’ç»,decline
-å¯è·å¾—,outcome
-å¿«é€Ÿç™»é™†,quick access
-æ¥è‡ª,from
-ç´¯è®¡,accumulative
-å†·å´æ—¶é—´,CDTime
-ç¤¼åŒ…,pack
-å…‘æ¢,exchange
-ç«‹å³é‡ç½®,restnow
-èŠå¤©,chat
-åˆ—è¡¨,list
-é¢†å–,claim
-æ å¤º,loot
-æ¯æ—¥,daily
-å¯†ç ,password
-æè¿°,description
-æ’è¡Œæ¦œ,rankings
-æ’å,ranking
-æ´¾é£,dispatch
-å“é˜¶,quality
-å¹³å‡,average
-å±è”½,block
-ç‰©èµ„,resources
-æ™®é€š,normal
-ç­¾åˆ°,check-in
-å‰æ’,front row
-æŠ¢å¤º,steal
-æŠ¢å¤ºç¢ç‰‡,steal shards
-åˆ‡æ¢,switch
-æ¸…ç©ºåˆ—è¡¨,clear all
-å–æ¶ˆ,cancel
-å…¨éƒ¨,all
-ç¡®è®¤,confirm
-ç¾¤å‘é‚®ä»¶,mail all
-äººæ•°/äººå£,population
-ä»»åŠ¡,quest
-å¥–åŠ±,reward
-è£è€€,honor
-è‚‰ç›¾,tank
-å…¥ä¼šæ¡ä»¶,filter
-èµ›å­£,seasonal
-èµ›äº‹/æˆ˜æ–—,battle
-æ‰«è¡,blitz
-åˆ é™¤,delete
-å•†åº—,shop
-ä¸Šé˜µ,in formation
-ç”³è¯·,apply
-å‰©ä½™æ¬¡æ•°,chancesleft
-å‰©ä½™å…æˆ˜æ—¶é—´,protection time left
-å‰©ä½™æ—¶é—´,time left
-çŸ³å¤´,stone
-æ—¶é—´,time
-ä½¿ç”¨,use
-ä¸–ç•Œ,world
-æ”¶åˆ°,received
-å±æ€§,stats
-åˆ·æ–°,refresh
-ç¢ç‰‡,shards
-æå–,collect
-ä½“åŠ›,stamina
-æ·»åŠ ,add
-æ·»åŠ å¥½å‹,add to friends
-æŒ‘æˆ˜,challenge
-æ¡ä»¶,requirement
-è·³è¿‡,skip
-å›¾é‰´,handbook
-æ¨è,recommended
-é€€å‡º,quit
-æŒ–å®,dig
-æœªå¼€å¯,locked
-ç‰©èµ„,resources
-ç³»ç»Ÿè®¾ç½®,settings
-ç°ä»·,current price
-é™è´­,purchase limits
-æ•ˆæœ,effects
-ä¿¡æ¯,info
-é‚€è¯·,invitations
-ä¸€é”®,one-tap
-å·²æ¿€æ´»,activated
-å·²æèµ ,donated
-å·²é¢†å–,claimed
-æ‹¥æœ‰,own        
-æ¸¸æˆå…¬å‘Š,notice
-æœ‰æ•ˆæ—¶é—´,effective time
-è¯­éŸ³,voice
-åŸä»·,original
-å é¢†,occupation
-å¬å”¤,summon
-é‡ç”Ÿ,regen
-é‡æ–°å‘é€,resend
-é‡ç½®,reset
-ä¸»åŸ,abyss
-æ³¨å†Œ,register
-è£…å¤‡,equip
-å‡†å¤‡,prepare
-å‡†å¤‡æ—¶é—´,preparation
-èµ„æºç‚¹,resource point
-æ€»,total
-æœ€å—æ¬¢è¿,most popular
-å°Šäº«/ä¸“å±,exclusive
+ÖĞÎÄ,English
+ÕûÀí,sort
+,
+°Ù·Ö±ÈÎüÊÕ,percentage absorb
+,
+½ğ±Ò,gold
+µÈ¼¶,level
+³ÆºÅ,title
+¾­Ñé,exp
+ÕËºÅ,account
+ÔöÒæbuff,buff
+Ğ¶ÏÂ/µ÷Àë,remove
+,
+¹«»á,guild
+¹«»áĞûÑÔ,declaration
+»á³¤,leader
+¹±Ï×,contribution
+¼ÓÈë,join
+Ö°Î»,position
+¶ÓÎé,team
+,
+¹ºÂò/ÇÀ¹º,purchase
+¹ºÂò,buy
+,
+¿×,slot
+ÏâÇ¶,socket
+ÏûºÄ,costs
+Ğø·Ñ,renew
+ÒÑÊÕ¼¯,collected
+ÒÑ×°±¸,equipped
+Ï´Á¶/¾«Á¶,refine
+²ÄÁÏ,materials
+Éı¼¶/ÅàÑø,upgrade
+ÅàÑø,train
+·Ö½â,dismantle
+½ø½×/ÉıĞÇ,evolve
+Ç¿»¯,enchant
+Ç¿»¯´óÊ¦,enchant master
+ÑªÂö,bloodline
+,
+ÖĞ,medium
+µÍ,low
+»ù´¡/³õ¼¶,basic
+ÖĞ¼¶,intermediate
+¸ß¼¶,advanced
+,
+±¦Ê¯,gem
+Ê¥Îï,hollything
+¾ôÎ»,peerage
+·ûÎÄ,rune
+ÉÏÒÂ,top
+Ã±×Ó,hat
+½äÖ¸,ring
+Ê±×°,fashion
+ÎÆÕÂ,crest
+ÎäÆ÷,weapon
+ÏÂÒÂ,bottom
+,
+·çÏµ,wind
+»ğÏµ,fire
+±ùÏµ,ice
+Ïµ±ğ,type
+¸¨Öú,support
+ÂÌÉ«,green
+À¶É«,blue
+³ÈÉ«,orange
+×ÏÉ«,purple
+¶¨Î»,role
+Îï¹¥,fighter
+·¨¹¥,mage
+î¿°í,bond
+,
+°Ü·½,loser
+Ê¤·½,winner
+Ê¤Àû/Ê§°Ü,victory/defeat
+,
+°ïÖú,help
+±¦²Ø,treasure
+±¦Ïä,chests
+±£´æ,save
+±£»¤Ê±¼ä,protection time
+±¨ÃûÊ±¼ä,registration
+²¹Ç©,retrieve
+²¶Áé/²¶×½,capture
+²¼Õó/ÕóÈİ,formation
+²Î¼Ó,join
+²é¿´,view
+³É¹¦ÂÊ,success rate
+³É¾Í,goal
+³ÉÔ±,members
+³äÖµ,recharge
+³öÊÛ,sell
+´óÌü,hall
+´ı¼¤»î,activatable
+µ¹¼ÆÊ±,countdown
+µÀ¾ß,item
+µÇÂ½,login
+µÈ¼¶ÌØÈ¨,privilege
+¶ÔÕ½Ê±¼ä,duration
+¶Ò»»,exchange
+¶îÍâ,extra
+¶ñÄ§,devil
+·¢ËÍ,send
+·µ»Ø,return
+·şÎñÆ÷,server
+¸´³ğ,revenge
+¸´»î,revive
+¸²¸Ç,cover
+¸ü»»,change
+¹ÍÓ¶,hire
+¹Ø¿¨,checkpoint
+»¹Ô­,restore
+ĞĞ¶¯Öµ,action point
+ºÃÓÑ,friends
+ºÅÕÙ,get
+ºÏ³É,synthesize
+ºóÅÅ,back row
+»¤ËÍ,escort
+»Ø·Å,replay
+»ØÔù,send back
+»î¶¯,event
+»÷É±/±»»÷É±,kills/deaths
+¼¤»î,activate
+¼ÇÂ¼,record
+¼¼ÄÜ,skill
+¼Ó³É,bonus
+½¨Éè,construction
+½¨Öş,constructions
+½±Àø,reward
+½ØÖ¹,deadline
+½ø×¤,station
+¾º¼¼³¡,arena
+¾Ü¾ø,decline
+¿É»ñµÃ,outcome
+¿ìËÙµÇÂ½,quick access
+À´×Ô,from
+ÀÛ¼Æ,accumulative
+ÀäÈ´Ê±¼ä,CDTime
+Àñ°ü,pack
+¶Ò»»,exchange
+Á¢¼´ÖØÖÃ,restnow
+ÁÄÌì,chat
+ÁĞ±í,list
+ÁìÈ¡,claim
+ÂÓ¶á,loot
+Ã¿ÈÕ,daily
+ÃÜÂë,password
+ÃèÊö,description
+ÅÅĞĞ°ñ,rankings
+ÅÅÃû,ranking
+ÅÉÇ²,dispatch
+Æ·½×,quality
+Æ½¾ù,average
+ÆÁ±Î,block
+Îï×Ê,resources
+ÆÕÍ¨,normal
+Ç©µ½,check-in
+Ç°ÅÅ,front row
+ÇÀ¶á,steal
+ÇÀ¶áËéÆ¬,steal shards
+ÇĞ»»,switch
+Çå¿ÕÁĞ±í,clear all
+È¡Ïû,cancel
+È«²¿,all
+È·ÈÏ,confirm
+Èº·¢ÓÊ¼ş,mail all
+ÈËÊı/ÈË¿Ú,population
+ÈÎÎñ,quest
+½±Àø,reward
+ÈÙÒ«,honor
+Èâ¶Ü,tank
+Èë»áÌõ¼ş,filter
+Èü¼¾,seasonal
+ÈüÊÂ/Õ½¶·,battle
+É¨µ´,blitz
+É¾³ı,delete
+ÉÌµê,shop
+ÉÏÕó,in formation
+ÉêÇë,apply
+Ê£Óà´ÎÊı,chancesleft
+Ê£ÓàÃâÕ½Ê±¼ä,protection time left
+Ê£ÓàÊ±¼ä,time left
+Ê¯Í·,stone
+Ê±¼ä,time
+Ê¹ÓÃ,use
+ÊÀ½ç,world
+ÊÕµ½,received
+ÊôĞÔ,stats
+Ë¢ĞÂ,refresh
+ËéÆ¬,shards
+ÌáÈ¡,collect
+ÌåÁ¦,stamina
+Ìí¼Ó,add
+Ìí¼ÓºÃÓÑ,add to friends
+ÌôÕ½,challenge
+Ìõ¼ş,requirement
+Ìø¹ı,skip
+Í¼¼ø,handbook
+ÍÆ¼ö,recommended
+ÍË³ö,quit
+ÍÚ±¦,dig
+Î´¿ªÆô,locked
+Îï×Ê,resources
+ÏµÍ³ÉèÖÃ,settings
+ÏÖ¼Û,current price
+ÏŞ¹º,purchase limits
+Ğ§¹û,effects
+ĞÅÏ¢,info
+ÑûÇë,invitations
+Ò»¼ü,one-tap
+ÒÑ¼¤»î,activated
+ÒÑ¾èÔù,donated
+ÒÑÁìÈ¡,claimed
+ÓµÓĞ,own        
+ÓÎÏ·¹«¸æ,notice
+ÓĞĞ§Ê±¼ä,effective time
+ÓïÒô,voice
+Ô­¼Û,original
+Õ¼Áì,occupation
+ÕÙ»½,summon
+ÖØÉú,regen
+ÖØĞÂ·¢ËÍ,resend
+ÖØÖÃ,reset
+Ö÷³Ç,abyss
+×¢²á,register
+×°±¸,equip
+×¼±¸,prepare
+×¼±¸Ê±¼ä,preparation
+×ÊÔ´µã,resource point
+×Ü,total
+×îÊÜ»¶Ó­,most popular
+×ğÏí/×¨Êô,exclusive
